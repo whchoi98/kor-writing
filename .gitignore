@@ -1,0 +1,21 @@
+# Secrets and local overrides (never commit; this repo ships to every installer)
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+
+# Original distribution archives
+*.tar.gz
+*.zip
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python caches from local checks
+__pycache__/
+*.pyc
