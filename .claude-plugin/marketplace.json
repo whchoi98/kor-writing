@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "kor-writing",
+  "owner": {
+    "name": "WooHyung Choi"
+  },
+  "description": "한국어 글쓰기 플러그인",
+  "plugins": [
+    {
+      "name": "kor-writing",
+      "source": "./",
+      "description": "한국어 글쓰기 도구. kor-deslop: AI 티 제거 윤문(패턴 79개, 단일 패스)"
+    }
+  ]
+}

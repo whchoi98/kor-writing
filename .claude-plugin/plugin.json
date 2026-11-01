@@ -1,0 +1,15 @@
+{
+  "name": "kor-writing",
+  "version": "1.0.0",
+  "description": "한국어 글쓰기 도구. kor-deslop: 번역투, AI 관용구, 구조, 리듬, 서식 패턴 79개로 AI 티를 제거하는 윤문",
+  "author": {
+    "name": "WooHyung Choi"
+  },
+  "license": "MIT",
+  "keywords": [
+    "korean",
+    "writing",
+    "humanize",
+    "deslop"
+  ]
+}
